@@ -1,0 +1,101 @@
+idEtudiant;etuNom ;etuPrenom;etuAdresse;etuEmail;etuTelephone
+;Gerard;Ethan;1174, Thiré, Rue Isabey 97;tatiana.maurice@etml.educanet2.ch;078.456.45.16
+;Lemaire;Émilie;1618, Villers-lès-Nancy, Avenue du Général-Tripier 22;marion.marques@etml.educanet2.ch;078.891.26.53
+;Da costa;Yanis;1096, Villeneuvette, Rue Geoffroy-Saint-Hilaire 39;noemie.bigot@etml.educanet2.ch;079.179.90.76
+;Humbert;Julien;1913, Ploemeur, Place Alfred-Sauvy 84;gilbert.fortin@etml.educanet2.ch;075.630.74.76
+;Leon;Jeanne;1425, Vitteaux, Place Jacques-Rueff 44;eva.marty@etml.educanet2.ch;078.138.89.49
+;Ferreira;Alicia;1878, Rimbez-et-Baudiets, Rue de Grenelle 7;killian.da.silva@etml.educanet2.ch;077.211.10.59
+;Schmitt;Timothée;1300, Villers-sur-Auchy, Rue Fourcroy 24;davy.chapuis@etml.educanet2.ch;076.023.95.12
+;Lefevre;Arthur;1990, Saint-Germain-sur-Bresle, Rue Ernest-Hemingway 75;francoise.adam@etml.educanet2.ch;077.773.86.33
+;Mas;Tatiana;1464, Saint-Yon, Rue Déodat-de-Séverac 38;matheo.regnier@etml.educanet2.ch;079.710.69.03
+;Meunier;Lana;1940, Fontaine-lès-Dijon, Cité de la Chapelle 79;loane.guillou@etml.educanet2.ch;076.223.29.89
+;Jourdain;Ethan;1619, Saint-Étienne-de-Chigny, Cité Hermel 66;paul.arnaud@etml.educanet2.ch;078.970.78.06
+;Guillon;Maïwenn;1953, Saint-Nicolas-la-Chapelle, Rue Froidevaux 14;esteban.klein@etml.educanet2.ch;076.240.75.61
+;Marty;Célia;1237, Septème, Rue de Bazeilles 60;theo.vidal@etml.educanet2.ch;075.328.86.31
+;Bigot;Nicolas;1383, Vazerac, Rue des Balkans 15;cloe.vial@etml.educanet2.ch;077.139.03.98
+;Langlois;Émile;1000, Vendeuvre-du-Poitou, Rue Cauchy 40;anael.roques@etml.educanet2.ch;075.018.20.58
+;Da costa;Marine;1701, Bois-Colombes, Rue du Général-de-Castelnau 27;ethan.gomes@etml.educanet2.ch;075.365.37.76
+;Castel;Justine;1458, Villegouge, Rue Beauregard 74;guillaume.picot@etml.educanet2.ch;078.718.44.23
+;Comte;Constant;1964, Paris 4ème, Place Francis-Poulenc 39;zacharis.laine@etml.educanet2.ch;079.975.27.02
+;Gras;Juliette;1385, Donzy, Passage des Acacias 68;erwan.baudry@etml.educanet2.ch;076.093.80.75
+;Lebrun;Simon;1957, Wambercourt, Rue Dareau 61;lamia.guillaume@etml.educanet2.ch;077.534.35.75
+;Jacques;Enzo;1305, Pléneuf-Val-André, Villa Albert-Robida 52;florian.le.corre@etml.educanet2.ch;077.864.46.68
+;Lamy;Gabriel;1281, Vix, Rue Cassette 70;marwane.leclerc@etml.educanet2.ch;078.925.68.67
+;Andrieux;Théo;1228, Colombes, Passage Doisy 7;louise.simon@etml.educanet2.ch;078.207.27.67
+;Marques;Marion;1109, Oignies, Rue Fernand-Foureau 79;maxime.gilles@etml.educanet2.ch;077.058.42.66
+;Carre;Guillemette;1335, Saint-Pierre-de-Chignac, Place Émile-Landrin 76;lou.bourgeois@etml.educanet2.ch;078.372.85.26
+;Jacquot;Margot;1230, Wolfersdorf, Rue de l\'Est 23;sara.leveque@etml.educanet2.ch;079.563.82.11
+;Tournier;Mattéo;1865, Yzeures-sur-Creuse, Rue Fabert 57;lilou.fouquet@etml.educanet2.ch;079.052.84.71
+;Charles;Juliette;1904, Thivars, Rue Albert-Malet 49;amelie.carlier@etml.educanet2.ch;077.726.54.90
+;Adam;Rémi;1645, Le Vivier-sur-Mer, Rue Abel-Gance 11;louna.charbonnier@etml.educanet2.ch;075.616.46.63
+;Pons;Antonin;1998, Sigournais, Rue du Dahomey 25;yanis.cousin@etml.educanet2.ch;079.468.23.90
+;Collet;Marine;2000, Poligny, Villa Dufresne 63;sara.couturier@etml.educanet2.ch;077.296.54.80
+;Deschamps;Florian;1551, Saint-Genis-l\'Argentière, Impasse Dombasle 81;emilie.hernandez@etml.educanet2.ch;076.878.57.53
+;Levy;Candice;1395, Paillencourt, Rue du Faubourg-Saint-Honoré 86;louis.noel@etml.educanet2.ch;078.530.61.64
+;Pichon;Jordan;1843, Brive-la-Gaillarde, Place Henri-Krasucki 54;corentin.ferrer@etml.educanet2.ch;079.830.94.65
+;Guignard;Justine;1405, Thonnance-les-Moulins, Rue Guy-de-Maupassant 77;antonin.guerin@etml.educanet2.ch;078.972.36.56
+;Le guen;Maéva;1740, Santeuil, Impasse Alexandre-Lécuyer 20;tatiana.gillet@etml.educanet2.ch;077.115.77.22
+;Alves;Jasmine;1613, Montreuil-Bonnin, Villa des Aigrettes 1;yuna.gay@etml.educanet2.ch;077.660.44.32
+;Lemoine;Nolan;1531, Tourtoirac, Rue Gossec 62;tristan.laroche@etml.educanet2.ch;077.645.43.96
+;Lemaire;Jade;1692, Wittisheim, Rue des Haies 46;celia.petit@etml.educanet2.ch;075.311.55.47
+;Diaz;Cloé;1075, Quinsac, Rue Faustin-Hélie 89;yanis.leonard@etml.educanet2.ch;078.676.33.87
+;Thiebaut;Jasmine;1400, Valleroy, Impasse Florimont 10;capucine.cochet@etml.educanet2.ch;076.509.33.91
+;Toussaint;Roméo;1171, Jumilhac-le-Grand, Rue de la Félicité 39;margaux.germain@etml.educanet2.ch;078.781.22.34
+;Valentin;Clémence;1895, Le Mans, Avenue de France 79;florian.mas@etml.educanet2.ch;077.798.31.16
+;Ribeiro;Rose;1368, Saint-Genis-les-Ollières, Rue Francoeur 79;mathieu.legrand@etml.educanet2.ch;076.184.92.45
+;Buisson;Léa;1325, Seignelay, Rue des Capucines 40;angelina.garnier@etml.educanet2.ch;075.127.42.16
+;Dupre;Romain;1218, Vignol, Rue de la Chapelle 47;alexandre.david@etml.educanet2.ch;078.006.56.14
+;Lopez;Lou;1472, Isle, Allée des Frères-Voisin 12;kevin.dubois@etml.educanet2.ch;079.488.92.27
+;Chartier;Louis;1547, Vy-lès-Lure, Boulevard Davout 73;leon.marie@etml.educanet2.ch;076.136.19.81
+;Schmitt;Fabrice;1879, Molières-sur-Cèze, Rue de l\'Égalité 87;corentin.moreau@etml.educanet2.ch;075.242.82.30
+;Robert;Julien;1215, Villers-Saint-Christophe, Pont Alexandre-III 1;amine.carpentier@etml.educanet2.ch;077.382.22.40
+;Benoit;Alicia;1050, Virey, Rue du Général-Archinard 59;felix.granger@etml.educanet2.ch;075.633.70.27
+;Albert;Bienvenue;1819, Longueau, Rue de la Dhuis 94;antonin.godard@etml.educanet2.ch;077.311.96.67
+;Munoz;Lauriane;1185, Tournay, Rue Fernand-Braudel 41;pauline.bouchard@etml.educanet2.ch;077.945.52.65
+;Gaudin;Lucas;1076, Neufgrange, Rue Benjamin-Franklin 25;erwan.fontaine@etml.educanet2.ch;079.735.83.19
+;Benoist;Léonard;1825, Cargèse, Rue Caillaux 6;esteban.cousin@etml.educanet2.ch;075.478.93.94
+;Fontaine;Lucie;1522, La Villeneuve-en-Chevrie, Rue Danton 44;nolan.leon@etml.educanet2.ch;078.814.57.73
+;Charrier;Maïwenn;1094, Vieugy, Rue Henri-Murger 89;kevin.weber@etml.educanet2.ch;078.608.89.87
+;Muller;Charlotte;1038, Saint-Pierre-Azif, Rue du Capitaine-Ménard 51;constant.legendre@etml.educanet2.ch;079.215.21.45
+;Brunel;Bastien;1436, Panazol, Cité Dupetit-Thouars 35;jeanne.perrot@etml.educanet2.ch;078.385.67.73
+;Ricard;Margot;1079, Vermelles, Rue de l\'Industrie 20;lana.pons@etml.educanet2.ch;078.741.75.40
+;Dubreuil;Océane;1912, Saint-Hippolyte, Rue David-d\'Angers 85;jordan.jung@etml.educanet2.ch;077.158.69.83
+;Ruiz;Salomé;1827, Valsonne, Impasse de l\'Enfant-Jésus 20;diego.evrard@etml.educanet2.ch;077.963.40.96
+;Petitjean;Diego;1534, Saint-Georges-de-Rouelley, Rue de la Guadeloupe 83;lauriane.merlin@etml.educanet2.ch;076.194.66.78
+;Michaud;Thomas;1895, Bagneux, Rue des Jardiniers 82;clemence.besson@etml.educanet2.ch;079.798.13.30
+;Leveque;Nathan;1999, Surques, Rue de la Cavalerie 89;louise.walter@etml.educanet2.ch;076.722.25.35
+;Gros;Yasmine;1811, Saint-James, Cour de la Ferme-Saint-Lazare 72;romeo.delorme@etml.educanet2.ch;077.603.24.86
+;Bodin;Titouan;1039, Voimhaut, Rue de la Gare-de-Reuilly 15;sarah.lambert@etml.educanet2.ch;079.582.23.14
+;Roger;Clément;1404, Tendron, Rue Adolphe-Jullien 12;gabriel.leblond@etml.educanet2.ch;077.872.56.53
+;Morin;Mélissa;1011, Marly-le-Roi, Rue de Jarente 45;simon.berthier@etml.educanet2.ch;077.294.78.88
+;Vial;Mélissa;1650, Vertamboz, Rue Jacob 52;alexia.gillet@etml.educanet2.ch;076.042.89.31
+;Grandjean;Noë;1066, Vyt-lès-Belvoir, Passage de l\'Industrie 13;kilian.prevost@etml.educanet2.ch;075.627.82.67
+;Drouet;Julien;1247, La Queue-lès-Yvelines, Rue du Douanier-Rousseau 61;paul.hardy@etml.educanet2.ch;075.363.90.70
+;Mace;Catherine;1805, Labège, Rue Albert-Camus 91;nolan.chapuis@etml.educanet2.ch;076.488.23.01
+;Leon;Jasmine;1002, Vernouillet, Rue de Belfort 54;ambre.hamel@etml.educanet2.ch;077.003.23.19
+;Carlier;Lina;1688, Vielle-Soubiran, Passage du Désir 87;zoe.lesage@etml.educanet2.ch;078.297.39.67
+;Blondeau;Tatiana;1429, Neuilly-sur-Seine, Rue Gustave-Charpentier 22;erwan.poisson@etml.educanet2.ch;075.356.35.11
+;Collet;Lilou;1633, Vandeléville, Rue François-Truffaut 44;celia.lamy@etml.educanet2.ch;077.769.03.02
+;Jourdan;Maïwenn;1401, Le Vézier, Avenue Georges-Risler 23;diego.godin@etml.educanet2.ch;076.974.72.44
+;Monier;Arthur;1830, Saint-Salvy-de-la-Balme, Rue Firmin-Gémier 22;lorenzo.leger@etml.educanet2.ch;079.830.19.62
+;Fernandes;Alexandre;1289, Mesnil-Verclives, Rue Abel-Rabaud 98;elena.lagarde@etml.educanet2.ch;078.381.50.03
+;Blanchet;Élouan;1516, Vautebis, Allée Georges-Rouault 19;marwane.francois@etml.educanet2.ch;075.435.02.81
+;Charpentier;Lou;1603, Trégrom, Place Étienne-Pernet 74;nina.descamps@etml.educanet2.ch;077.463.89.78
+;Barbe;Julien;1535, Verdun-sur-Garonne, Rue Calmels-Prolongée 80;clemence.favier@etml.educanet2.ch;077.695.73.14
+;Besse;Dimitri;1102, Valence-d\'Albigeois, Rue Caulaincourt 44;melissa.gueguen@etml.educanet2.ch;078.910.81.53
+;Husson;Fanny;1505, Saint-Mitre-les-Remparts, Rue des Guillemites 86;celia.ferre@etml.educanet2.ch;078.765.87.28
+;Blondeau;Bastien;1305, Yonval, Cour Damoye 25;theo.guerin@etml.educanet2.ch;076.378.19.51
+;Barthelemy;Clara;1358, Westrehem, Rue Fleury 63;remi.morel@etml.educanet2.ch;077.596.27.02
+;Masse;Yasmine;1796, Guidel, Rue Gît-Le-Cœur 32;anna.besson@etml.educanet2.ch;076.091.51.07
+;Faivre;Amélie;1573, Voelfling-lès-Bouzonville, Rue Franquet 78;elsa.bonhomme@etml.educanet2.ch;075.625.46.31
+;Camus;Malo;1342, Wintzenheim, Rue Gaston-Tissandier 86;matteo.prigent@etml.educanet2.ch;078.832.31.10
+;Dias;Hugo;1944, Le Gillieux, Rue François-Miron 28;gilbert.duchemin@etml.educanet2.ch;075.816.63.10
+;Fabre;Rosalie;1514, Pont Croix, Rue Ernest-Lefèvre 84;chloe.bernier@etml.educanet2.ch;075.215.14.05
+;Favre;Gilbert;1470, Tilly-la-Campagne, Rue Albert-Bayet 93;alexia.moreau@etml.educanet2.ch;077.248.22.15
+;Delaunay;Sarah;1730, Vicq-sur-Gartempe, Avenue du Général-Sarrail 20;nina.vallee@etml.educanet2.ch;078.576.90.87
+;Ribeiro;Mohamed;1650, Saint-Martin-de-Crau, Rue Ernest-Lavisse 80;mehdi.bousquet@etml.educanet2.ch;076.979.77.46
+;Morin;Jeanne;1284, Rion-des-Landes, Rue Henri-Monnier 63;arthur.roche@etml.educanet2.ch;079.884.74.33
+;Petit;Capucine;1602, Montamisé, Rue des Écoles 73;lou.lagarde@etml.educanet2.ch;076.170.51.10
+;Guy;Erwan;1845, La Bernerie-en-Retz, Impasse du Gué 72;colin.blin@etml.educanet2.ch;078.571.63.27
+;Guillon;Capucine;1852, Bretteville-sur-Odon, Avenue Barbey-d\'Aurevilly 28;mathis.pages@etml.educanet2.ch;076.320.38.51
+;Tellier;Léa;1907, Seysses-Savès, Boulevard du Fort-de-Vaux 76;anna.richard@etml.educanet2.ch;079.906.16.96
